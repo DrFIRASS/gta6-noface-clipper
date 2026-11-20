@@ -1,0 +1,6 @@
+# Sources for "find new videos" runs. Empty by default: add only channels you have permission to clip.
+# One YouTube channel id per line (youtube.com/@handle -> share -> copy channel id). Text after # is a note.
+# 'search: <words>' checks YouTube search, newest uploads first. 'twitch: <category>' takes recent VODs of that Twitch category.
+# Example (remove the leading # to use):
+# UCxxxxxxxxxxxxxxxxxxxxxx  # a streamer who allows clipping
+# twitch: Grand Theft Auto VI  # recent English VODs in the GTA VI category
